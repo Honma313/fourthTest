@@ -2,5 +2,5 @@
 ## main second
 ## braA
 
-grao　でローカルファイルとgitの接続
+grao　でローカルファイルとgitの接続  
 gmg　でマージする　ただしmainにいること
