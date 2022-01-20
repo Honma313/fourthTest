@@ -2,5 +2,5 @@
 ## main second
 ## braA
 
-よくわかる解説
-…のテスト
+grao　でローカルファイルとgitの接続
+gmg　でマージする　ただしmainにいること
